@@ -12,7 +12,7 @@
 
 6 - Baixe a sua versão do Mine;
 
-#Para conectar a servidores (Proxy no Mine)
+# Para conectar a servidores (Proxy no Mine)
 
 1 - Abra as configurações;
 
